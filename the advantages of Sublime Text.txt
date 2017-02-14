@@ -1,0 +1,14 @@
+Text-editor olaraq Sublime Text 3 ve Notepad++ istifade edirem. Amma HTML ve CSS yazarken Sublimedan istifade daha rahatdýr. Sebebleri:
+- Trial versiyasini infinitely free iþlene bilersiniz;
+- Taglar müxtelif renglerdedir ve bu onlari ayirmagi asanlasdirir;
+- Taglari yazarken size autoselect teklif edilir, hansi ki bununla tagi secib rahat yazdira bilersiniz;
+- Sol hissesindeki Side Bardan folder ve filelar asanliqla reachable-dirlar.
+- Sag hissesindeki MiniMapla yazdiginiz code-u butov sekilde gore ve istenilen hissesine click ederek gede bilersiniz;
+- Multiple cursor dediyimiz, CTRL + Click basaraq eyni anda bir nece setir seçerek hemin setirlerde eyni yazilar yazdirmaq mümkündür; 
+- tagin adi + Tab. Bununla automatically tagi yazdiririq(acib bagliyir, attributlarini da yazir).Hemcinin tagin adi * reqem + Tab : Bununla da eyni anda bir nece tagi yazdirmaq olar(meselen div*3). ! + Tab ile HTML5in esas strukturunu birbasa yazmaq mümkündür; 
+- Muxtelif theme-ler secmek imkani var; 
+- Goto Anything ile hem folder içindeki, hem de external filalara eriþmek mümkündür; 
+- Bir çox programlasdirma dilinden istifade etmek mümkündür; 
+- Alt + Shift + reqem . Bununla ekrani bir nece hisseye column ve ya rowlara nezeren bole bilersiniz;
+- Dediklerimin bir çoxu menu hissesinde de gosterilir;
+- Windows OS, Linux OS ve MAC OS sistemlerinde iþlene bilir(eyni cur);
