@@ -1,14 +1,14 @@
-Text-editor olaraq Sublime Text 3 ve Notepad++ istifade edirem. Amma HTML ve CSS yazarken Sublimedan istifade daha rahatdır. Sebebleri:
-- Trial versiyasini infinitely free işlene bilersiniz;
-- Taglar müxtelif renglerdedir ve bu onlari ayirmagi asanlasdirir;
+Text-editor olaraq Sublime Text 3 ve Notepad++ istifade edirem. Amma HTML ve CSS yazarken Sublimedan istifade daha rahatdÄ±r. Sebebleri:
+- Trial versiyasini infinitely free iÅŸlene bilersiniz;
+- Taglar mÃ¼xtelif renglerdedir ve bu onlari ayirmagi asanlasdirir;
 - Taglari yazarken size autoselect teklif edilir, hansi ki bununla tagi secib rahat yazdira bilersiniz;
-- Sol hissesindeki Side Bardan folder ve filelar asanliqla reachable-dirlar.
+- Sol hissesindeki Side Bardan folder ve filelar asanliqla reachable-dirlar. 
 - Sag hissesindeki MiniMapla yazdiginiz code-u butov sekilde gore ve istenilen hissesine click ederek gede bilersiniz;
-- Multiple cursor dediyimiz, CTRL + Click basaraq eyni anda bir nece setir seçerek hemin setirlerde eyni yazilar yazdirmaq mümkündür; 
-- tagin adi + Tab. Bununla automatically tagi yazdiririq(acib bagliyir, attributlarini da yazir).Hemcinin tagin adi * reqem + Tab : Bununla da eyni anda bir nece tagi yazdirmaq olar(meselen div*3). ! + Tab ile HTML5in esas strukturunu birbasa yazmaq mümkündür; 
+- Multiple cursor dediyimiz, CTRL + Click basaraq eyni anda bir nece setir seÃ§erek hemin setirlerde eyni yazilar yazdirmaq mÃ¼mkÃ¼ndÃ¼r; 
+- tagin adi + Tab. Bununla automatically tagi yazdiririq(acib bagliyir, attributlarini da yazir).Hemcinin tagin adi * reqem + Tab : Bununla da eyni anda bir nece tagi yazdirmaq olar(meselen div*3). ! + Tab ile HTML5in esas strukturunu birbasa yazmaq mÃ¼mkÃ¼ndÃ¼r; 
 - Muxtelif theme-ler secmek imkani var; 
-- Goto Anything ile hem folder içindeki, hem de external filalara erişmek mümkündür; 
-- Bir çox programlasdirma dilinden istifade etmek mümkündür; 
+- Goto Anything ile hem folder iÃ§indeki, hem de external filalara eriÅŸmek mÃ¼mkÃ¼ndÃ¼r; 
+- Bir Ã§ox programlasdirma dilinden istifade etmek mÃ¼mkÃ¼ndÃ¼r; 
 - Alt + Shift + reqem . Bununla ekrani bir nece hisseye column ve ya rowlara nezeren bole bilersiniz;
-- Dediklerimin bir çoxu menu hissesinde de gosterilir;
-- Windows OS, Linux OS ve MAC OS sistemlerinde işlene bilir(eyni cur);
+- Dediklerimin bir Ã§oxu menu hissesinde de gosterilir;
+- Windows OS, Linux OS ve MAC OS sistemlerinde iÅŸlene bilir(eyni cur);
